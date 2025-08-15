@@ -82,16 +82,15 @@
 
 <header>
     <h1>💸 Transforme seu Celular em <span class="highlight">Máquina de Dinheiro</span></h1>
-    <p>Descubra técnicas SECRETAS que pessoas comuns em Moçambique estão usando para ganhar dinheiro, direto do celular!</p>
+    <p>Descubra técnicas secretas que pessoas comuns em Moçambique estão usando para gerar renda REAL direto do celular!</p>
 </header>
 
 <main>
     <img src="https://images.unsplash.com/photo-1603609457323-845f1085c7c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80" alt="Ilustração Estilo Africano">
-    <p>Imagine abrir seu celular de manhã e já começar a ver resultados! Com este guia exclusivo, você vai aprender **passo a passo**, sem enrolação, **como gerar renda usando apps, redes sociais e métodos digitais adaptados para Moçambique**.</p>
-    <p class="price">🔥 Oferta Especial: Apenas 399,00 Mzn!</p>
+    <p>Imagine abrir seu celular e começar a ver resultados ainda hoje! Com este guia exclusivo, você aprende **passo a passo**, sem enrolação, **como gerar renda usando apps, redes sociais e métodos digitais adaptados para Moçambique**.</p>
+    <p class="price">🔥 Oferta Especial: Por apenas <strong>399,00 MZN</strong>!</p>
 
-    <!-- Botão de WhatsApp (adicione seu número depois do link wa.me/) -->
-    <a class="btn" href="https://wa.me/SEU_NUMERO_AQUI?text=Olá,%20quero%20saber%20como transformar meu celular em máquina de dinheiro" target="_blank">
+    <a class="btn" href="https://wa.me/SEU_NUMERO_AQUI?text=Olá,%20quero%20saber%20como%20transformar%20meu%20celular%20em%20máquina%20de%20dinheiro" target="_blank">
         💬 Quero Começar Agora!
     </a>
 </main>
